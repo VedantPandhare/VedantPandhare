@@ -66,11 +66,13 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
   
-![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/VedantPandhare/VedantPandhare/output/github-contribution-grid-snake-dark.svg)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VedantPandhare&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VedantPandhare&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=bf91f3&point=38bdae)
 
 </div>
 
