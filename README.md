@@ -66,11 +66,11 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 Contribution Graph
 
 <div align="center">
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VedantPandhare&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/VedantPandhare/VedantPandhare/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
