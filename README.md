@@ -69,10 +69,30 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VedantPandhare&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=VedantPandhare&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VedantPandhare&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=bf91f3&point=38bdae)
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=VedantPandhare&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+
+</div>
+
+## 📅 3D Contribution Calendar
+
+<div align="center">
+
+![3D Contribution Calendar](https://github-readme-stats.vercel.app/api?username=VedantPandhare&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true)
 
 </div>
 
