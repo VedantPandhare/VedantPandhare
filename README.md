@@ -1,48 +1,107 @@
 # 👋 Hi, I'm Vedant Pandhare!
-![Bar Graph GIF](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-🎓 A data analytics and AI enthusiast passionate about developing impactful projects with Machine Learning and Deep Learning.  
-💡 Currently exploring **computer vision, NLP, and AI-driven applications**.
 
-![Profile Views](https://komarev.com/ghpvc/?username=vedantpandhare&color=blue)
+<div align="center">
+  
+### Data Analytics & AI Enthusiast | Machine Learning Engineer
+  
+*Transforming ideas into intelligent solutions through code*
+
+[![Profile Views](https://komarev.com/ghpvc/?username=vedantpandhare&color=0e75b6&style=flat-square)](https://github.com/VedantPandhare)
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
-**Languages:** Python, Java, R, JavaScript  
-**Frameworks:** TensorFlow, PyTorch, Flask, Streamlit  
-**Tools:** Git, Docker, Raspberry Pi, Power BI, Tableau  
-**Databases:** MySQL, MongoDB  
+## 🎯 About Me
+
+🎓 Passionate about developing impactful projects with **Machine Learning** and **Deep Learning**  
+💡 Currently exploring **Computer Vision, NLP, and AI-driven Applications**  
+🚀 Building intelligent systems that solve real-world problems
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### AI & LLM Tools
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangFlow](https://img.shields.io/badge/LangFlow-FF4B4B?style=for-the-badge&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-663399?style=for-the-badge&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+
+### Analytics & Visualization
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
+### Hardware
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VedantPandhare&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+</div>
 
 ---
 
 ## 🌐 Connect With Me
-<div>
-  <a href="https://github.com/VedantPandhare" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-  </a>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VedantPandhare)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-pandhare)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+
 </div>
-
-<div>
-  <a href="https://www.linkedin.com/in/vedant-pandhare" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-</div>
-
-<a href="mailto:youremail@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
----
-⭐️ *“Turning ideas into code, and code into impact.”*
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-ops117&layout=compact&theme=tokyonight)
+## 💖 Support My Work
 
-![Machine Learning](https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif)
+If you enjoy my contributions to open source and innovative projects, consider supporting me!
 
-### 💖 Support My Work:
-If you enjoy my work and would like to support my contributions to open source and innovative projects, feel free to sponsor me! Your support keeps the passion alive for creating awesome projects. 😊 
+<div align="center">
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/VedantPandhare)
 
+</div>
+
+---
+
+<div align="center">
+  
+### ⭐️ *"Turning ideas into code, and code into impact."*
+
+</div>
