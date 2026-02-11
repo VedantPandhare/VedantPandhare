@@ -70,13 +70,14 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=VedantPandhare&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vedantpandhare&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
 
 </div>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VedantPandhare&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=bf91f3&point=38bdae)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vedantpandhare&theme=tokyo-night&hide_border=true)
 
 </div>
 
