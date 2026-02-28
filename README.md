@@ -14,10 +14,27 @@
 ---
 
 ## 🎯 About Me
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-- Passionate about developing impactful projects with **Machine Learning** and **Deep Learning**
-- Currently exploring **Computer Vision, NLP, and AI-driven Applications**
-- Building intelligent systems that solve real-world problems
+```python
+class VedantPandhare:
+    def __init__(self):
+        self.name       = "Vedant Pandhare"
+        self.role       = "ML Engineer & AI Enthusiast"
+        self.location   = "India 🇮🇳"
+        self.languages  = ["Python", "C++", "JavaScript", "R"]
+        self.interests  = ["Computer Vision", "NLP", "LLMs", "RAG"]
+        self.currently  = "Building AI-driven real-world apps"
+        self.fun_fact   = "I debug with print() and I'm proud 😄"
+
+    def say_hi(self):
+        print("Thanks for visiting! Let's build something amazing.")
+
+me = VedantPandhare()
+me.say_hi()
+```
+
+<br clear="right"/>
 
 ---
 
