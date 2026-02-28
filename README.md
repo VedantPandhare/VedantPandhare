@@ -1,22 +1,23 @@
-# 👋 Hi, I'm
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Vedant%20Pandhare&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 <div align="center">
-  
-### Data Analytics & AI Enthusiast | Machine Learning Engineer
-  
-*Transforming ideas into intelligent solutions through code*
 
-[![Profile Views](https://komarev.com/ghpvc/?username=vedantpandhare&color=0e75b6&style=flat-square)](https://github.com/VedantPandhare)
+<!-- Animated Typing Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Vedant+Pandhare;AI+Enthusiast+%26;Machine+Learning+Engineer" alt="Typing SVG" />
+
+### *Transforming ideas into intelligent solutions through code*
 
 </div>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+---
+
 ## 🎯 About Me
 
-🎓 Passionate about developing impactful projects with **Machine Learning** and **Deep Learning**  
-💡 Currently exploring **Computer Vision, NLP, and AI-driven Applications**  
-🚀 Building intelligent systems that solve real-world problems
+- Passionate about developing impactful projects with **Machine Learning** and **Deep Learning**
+- Currently exploring **Computer Vision, NLP, and AI-driven Applications**
+- Building intelligent systems that solve real-world problems
 
 ---
 
@@ -72,12 +73,29 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vedantpandhare&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
-
 </div>
 
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vedantpandhare&theme=tokyo-night&hide_border=true)
+
+</div>
+
+---
+
+## 📉 Skill Radar
+
+<div align="center">
+
+```
+Machine Learning     ████████████████████  95%
+Deep Learning        ███████████████████░  90%
+Data Analytics       ████████████████████  95%
+NLP / LLMs           ██████████████████░░  85%
+Computer Vision      ████████████████░░░░  80%
+MLOps / DevOps       ███████████████░░░░░  75%
+Full Stack (React)   █████████████░░░░░░░  65%
+```
 
 </div>
 
@@ -91,11 +109,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-pandhare)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 
-
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
 </div>
 
 ---
+
+[![Profile Views](https://komarev.com/ghpvc/?username=vedantpandhare&color=0e75b6&style=flat-square)](https://github.com/VedantPandhare)
 
 ## 💖 Support My Work
 
@@ -110,7 +130,9 @@ If you enjoy my contributions to open source and innovative projects, consider s
 ---
 
 <div align="center">
-  
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
 ### ⭐️ *"Turning ideas into code, and code into impact."*
 
 </div>
