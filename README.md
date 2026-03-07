@@ -134,11 +134,7 @@ Full Stack (React)   █████████████░░░░░░�
 
 [![Profile Views](https://komarev.com/ghpvc/?username=vedantpandhare&color=0e75b6&style=flat-square)](https://github.com/VedantPandhare)
 
-## 💖 Support My Work
 
-If you enjoy my contributions to open source and innovative projects, consider supporting me!
-
-<div align="center">
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/VedantPandhare)
 
