@@ -38,6 +38,27 @@ me.say_hi()
 
 ---
 
+## 💼 Experience
+
+### 🏢 WILO Mather and Platt Pumps  
+**Machine Learning Intern**
+
+- Built an anomaly detection ML system to monitor vibrations and mitigate failures  
+- Engineered a real-time data pipeline using Raspberry Pi for sensor data acquisition  
+- Developed a Flask-based web dashboard for monitoring and visualization  
+- Implemented line and scatter plots for trend analysis and anomaly detection  
+
+---
+
+### 🏢 Southern Command, Vishwakarma University  
+**AI Student Intern**
+
+- Developed a secure AI inference pipeline for a defense-grade drone system  
+- Integrated Raspberry Pi with Hailo 8L AI accelerator for efficient edge deployment  
+- Bridged hardware and AI capabilities for mission-critical applications  
+
+---
+
 ## 💻 Tech Stack
 
 ### Languages
