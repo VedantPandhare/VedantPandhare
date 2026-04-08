@@ -5,12 +5,17 @@
 
 ### *Transforming ideas into intelligent solutions through code*
 
+<p align="center">
+  <a href="mailto:vedant11734@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/vedant-pandhare/">LinkedIn</a> •
+  <a href="https://vedant.sparkstudio.co.in/">Portfolio</a>
+</p>
 </div>
 
 ---
 
 ## 🎯 About Me
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```python
 class VedantPandhare:
@@ -21,7 +26,6 @@ class VedantPandhare:
         self.languages  = ["Python", "C++", "JavaScript", "R"]
         self.interests  = ["Computer Vision", "NLP", "LLMs", "RAG"]
         self.currently  = "Building AI-driven real-world apps"
-        self.fun_fact   = "I debug with print() and I'm proud 😄"
 
     def say_hi(self):
         print("Thanks for visiting! Let's build something amazing.")
@@ -53,7 +57,6 @@ me.say_hi()
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### AI & LLM Tools
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -71,30 +74,26 @@ me.say_hi()
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 
-### Analytics & Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-
-### Hardware
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
-
 ---
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vedantpandhare&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vedantpandhare&theme=icegray&border_radius=10&card_width=496)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vedantpandhare&theme=tokyo-night&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vedantpandhare&theme=react-dark&hide_border=true)
 
 </div>
-
----
+<div align="center">
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=graywhite&fontFamily=&preferLogin=false">
+    <img  alt="VedantPandhare's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/VedantPandhare?cardType=github&theme=graywhite&fontFamily=&preferLogin=false" />
+  </a>
+</div>
 
 ## 📉 Skill Radar
 
@@ -111,22 +110,6 @@ Full Stack (React)   █████████████░░░░░░�
 ```
 
 </div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VedantPandhare)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-pandhare)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-</div>
-
----
 
 [![Profile Views](https://komarev.com/ghpvc/?username=vedantpandhare&color=0e75b6&style=flat-square)](https://github.com/VedantPandhare)
 
