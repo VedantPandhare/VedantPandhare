@@ -46,8 +46,6 @@ me.say_hi()
 - Built an anomaly detection ML system to monitor vibrations and mitigate failures  
 - Engineered a real-time data pipeline using Raspberry Pi for sensor data acquisition  
 - Developed a Flask-based web dashboard for monitoring and visualization  
-- Implemented line and scatter plots for trend analysis and anomaly detection  
-
 ---
 
 ### 🏢 Southern Command, Vishwakarma University  
