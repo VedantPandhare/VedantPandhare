@@ -21,7 +21,7 @@
 class VedantPandhare:
     def __init__(self):
         self.name       = "Vedant Pandhare"
-        self.role       = "ML Engineer & AI Enthusiast"
+        self.role       = "ML Engineer & AI Engineer"
         self.location   = "India 🇮🇳"
         self.languages  = ["Python", "C++", "JavaScript", "R"]
         self.interests  = ["Computer Vision", "NLP", "LLMs", "RAG"]
@@ -61,7 +61,6 @@ me.say_hi()
 
 ### Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -112,22 +111,6 @@ me.say_hi()
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=graywhite&fontFamily=&preferLogin=false">
     <img  alt="VedantPandhare's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/VedantPandhare?cardType=github&theme=graywhite&fontFamily=&preferLogin=false" />
   </a>
-</div>
-
-## 📉 Skill Radar
-
-<div align="center"><img align="right" alt="Coding" width="230" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
-
-```
-Machine Learning     ████████████████████  95%
-Deep Learning        ███████████████████░  90%
-Data Analytics       ████████████████████  95%
-NLP / LLMs           ██████████████████░░  85%
-Computer Vision      ████████████████░░░░  80%
-MLOps / DevOps       ███████████████░░░░░  75%
-Full Stack (React)   █████████████░░░░░░░  65%
-```
-
 </div>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=vedantpandhare&color=0e75b6&style=flat-square)](https://github.com/VedantPandhare)
