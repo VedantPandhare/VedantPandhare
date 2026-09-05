@@ -6,9 +6,15 @@
 ### *Transforming ideas into intelligent solutions through code*
 
 <p align="center">
-  <a href="mailto:vedant11734@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/vedant-pandhare/">LinkedIn</a> •
-  <a href="https://vedant.sparkstudio.co.in/">Portfolio</a>
+  <a href="mailto:vedant11734@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/vedant-pandhare/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://vedant.sparkstudio.co.in/">
+    <img src="https://img.shields.io/badge/Portfolio-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 </div>
 
@@ -21,7 +27,7 @@
 class VedantPandhare:
     def __init__(self):
         self.name       = "Vedant Pandhare"
-        self.role       = "ML Engineer & AI Engineer"
+        self.role       = "AI Engineer"
         self.location   = "India 🇮🇳"
         self.languages  = ["Python", "C++", "JavaScript", "R"]
         self.interests  = ["Computer Vision", "NLP", "LLMs", "RAG"]
@@ -40,12 +46,22 @@ me.say_hi()
 
 ## 💼 Experience
 
+### 🏢 The Strelema  
+**AI/ML Intern**
+
+- Built a GraphRAG pipeline for political relationships to power sentiment and political analysis  
+- Built an LLM evaluation pipeline for AI survey calling systems, surfacing citizen sentiment toward elected representatives for political insights  
+- Built a RAG-based internal chatbot delivering real-time, context-aware news briefings for leadership decisions  
+
+---
+
 ### 🏢 WILO Mather and Platt Pumps  
 **Machine Learning Intern**
 
 - Built an anomaly detection ML system to monitor vibrations and mitigate failures  
 - Engineered a real-time data pipeline using Raspberry Pi for sensor data acquisition  
 - Developed a Flask-based web dashboard for monitoring and visualization  
+
 ---
 
 ### 🏢 Southern Command, Vishwakarma University  
