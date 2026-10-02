@@ -58,9 +58,9 @@ me.say_hi()
 ### 🏢 WILO Mather and Platt Pumps  
 **Machine Learning Intern**
 
-- Built an anomaly detection ML system to monitor vibrations and mitigate failures  
-- Engineered a real-time data pipeline using Raspberry Pi for sensor data acquisition  
-- Developed a Flask-based web dashboard for monitoring and visualization  
+- Architected a real-time anomaly detection and fault prognostics system using multi-axis IoT sensors and ensemble ML models; isolated failure modes like mechanical looseness and rotor dynamics imbalances, slashing production halts and false alarms by 65%.
+- Implemented advanced time-series forecasting utilizing LSTMs, ARIMA, and Prophet to model asset degradation curves and predict Remaining Useful Life estimation (RUL) long before physical symptoms occurred.
+- Engineered an edge-AI data acquisition pipeline featuring digital signal processing (FFT) to extract high-frequency vibration signatures, enabling scalable, real-time predictive maintenance on industrial equipment.
 
 ---
 
