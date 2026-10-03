@@ -12,6 +12,9 @@
   <a href="https://www.linkedin.com/in/vedant-pandhare/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://medium.com/@vedant11734">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
   <a href="https://vedant.sparkstudio.co.in/">
     <img src="https://img.shields.io/badge/Portfolio-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
@@ -44,14 +47,42 @@ me.say_hi()
 
 ---
 
+## Publications
+
+### Automated Detection of Disc Degeneration in X-ray Images Using Deep Learning CNNs
+
+**Deep Learning · CNN · YOLOv8 · OpenCV · Medical Imaging**
+
+* Developed a deep learning pipeline to detect and classify intervertebral disc degeneration across multiple disease categories.
+*  The study explores the use of **Convolutional Neural Networks (CNNs)** to identify radiographic patterns associated with disc degeneration, including disc-space narrowing and osteophyte formation.
+* Trained and evaluated models on **10,075 annotated spinal X-ray images** for automated medical image analysis.
+* By leveraging automated medical image analysis, the work investigates how deep learning can assist in detecting degenerative changes and provide a more efficient and consistent approach to radiographic assessment.
+* **Peer-reviewed research presented at ICAISI-25 International Conference.**
+
+🔗 **DOI:** [10.1201/9781003654049-50](https://doi.org/10.1201/9781003654049-50)
+
+---
+
+### 📄 Document Summarizer: A Machine Learning Approach to PDF Summarization
+
+**NLP · K-Means Clustering · NER · Hugging Face**
+
+* This research presents a novel AI framework for automated PDF summarization that addresses the challenge of efficiently processing large volumes of textual information.
+* The study explores K-Means clustering approach, Sentence Transformers, with new extractive summarization, and abstractive summarization methods to reduce document length by 70% while retaining essential semantic information.
+* The work demonstrates the potential of machine learning and NLP techniques for scalable document analysis and efficient knowledge extraction.
+* **Published in the Proceedings of ICSIAIML-25, Atlantis Press.**
+
+🔗 **DOI:** [10.2991/978-94-6463-948-3_50](https://doi.org/10.2991/978-94-6463-948-3_50)
+
+
 ## 💼 Experience
 
 ### 🏢 The Strelema  
 **AI/ML Intern**
 
-- Built a GraphRAG pipeline for political relationships to power sentiment and political analysis  
-- Built an LLM evaluation pipeline for AI survey calling systems, surfacing citizen sentiment toward elected representatives for political insights  
-- Built a RAG-based internal chatbot delivering real-time, context-aware news briefings for leadership decisions  
+- Developed a GraphRAG pipeline modeling 3+ entity-relationship layers across political networks, fusing a knowledge graph with vector-based semantic retrieval to surface non-obvious connections for sentiment and policy analysis.
+- Engineered an LLM-powered evaluation & benchmarking system for AI calling workflows, defining 5+ validation metrics and regression tests to extract citizen sentiment toward elected officials and generate actionable policy insights.
+- Deployed a RAG-based internal chatbot over a real-time news vector database, applying chunking and embedding strategies across 2+ retrieval pipelines with Langfuse observability, enabling leadership to access context-aware briefings 3× faster.  
 
 ---
 
